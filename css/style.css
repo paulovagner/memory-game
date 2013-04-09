@@ -1,0 +1,21 @@
+/*
+ style.css
+ Memory Game
+ Created by paulo on 2013-03-16.
+ */
+.figure {
+	width: 125px;
+	height: 115px;
+}
+.score {
+	width: 50px;
+}
+#game {
+	background-color: gray;
+	margin-left: 300px;
+	width: 650px;
+	height: 529px;
+}
+body {
+	background-color: gray;
+}
